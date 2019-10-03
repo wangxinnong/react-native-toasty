@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		B3E7B58A1CC2AC0600A0062D /* RNToasty.m in Sources */ = {isa = PBXBuildFile; fileRef = B3E7B5891CC2AC0600A0062D /* RNToasty.m */; };
+		B74FBB7C0C1683D6C54D893A /* libPods-RNToasty.a in Frameworks */ = {isa = PBXBuildFile; fileRef = BB81F0E820F6DC85231BBAFE /* libPods-RNToasty.a */; };
 		CE0DFE3720DAA92300EF6AAE /* libToast.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CE0DFE3620DAA91700EF6AAE /* libToast.a */; };
 /* End PBXBuildFile section */
 
@@ -56,6 +57,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE0DFE3720DAA92300EF6AAE /* libToast.a in Frameworks */,
+				B74FBB7C0C1683D6C54D893A /* libPods-RNToasty.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
